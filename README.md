@@ -1,13 +1,68 @@
-- 👋 Hi, I’m @JapeChinmay, a FullStack Developer with experience in React.js, Node.js, HTML, CSS, and JavaScript.
-- 👀  I’ve completed some interesting React.js projects, which you can check out below.
-- 🌱 I'm always learning and looking for new challenges to improve my skills. Currently, I'm interested in collaborating on MERN projects.
-- 💞️ If you have a project or idea you’d like to work on together, feel free to reach out to me at chinmayjape2@gmail.com.
-- 🗃️ You can also view my portfolio at https://www.crio.do/learn/portfolio/chinmayjape2/ and my NextJS portfolio at https://next-js-portfolio-orpin.vercel.app.
-- 🌟 In addition to my technical skills, I’m a great team player and have excellent communication skills. Let's work together to bring your ideas to life!
+## 👋 Hi, I’m Chinmay (JapeChinmay)
 
+🚀 Full-Stack Developer | SAP BTP | CAPM | React | Node.js  
 
+---
 
-<!---
-JapeChinmay/JapeChinmay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 About Me
+- 👨‍💻 Full-stack developer with experience in **React.js, Node.js, HTML, CSS, JavaScript**
+- ⚡ Also working with **SAP BTP, CAPM (Node.js), SAP UI5/Fiori**
+- 🧠 Strong interest in building **scalable web + enterprise applications**
+- 🌱 Always learning, currently exploring **advanced backend + system design**
+
+---
+
+### 🛠️ Tech Stack
+**Frontend**
+- React.js, Next.js, UI5/Fiori  
+- Tailwind CSS, HTML, CSS  
+
+**Backend**
+- Node.js, Express.js  
+- CAPM (SAP Cloud Application Programming Model)
+
+**Database**
+- PostgreSQL  
+
+**Platforms & Tools**
+- SAP BTP  
+- Docker (learning)  
+- Git & GitHub  
+
+---
+
+### 🚀 Projects
+- 🔗 React Projects: *(see portfolio below)*
+- 🔗 SAP BTP + CAPM Applications (Enterprise workflows, integrations)
+- 🔗 Full-stack MERN-style apps with real-time features
+
+---
+
+### 🌐 Portfolio
+- 🗃️ Main Portfolio:  
+  👉 https://www.crio.do/learn/portfolio/chinmayjape2/
+
+- ⚡ Next.js Portfolio:  
+  👉 https://next-js-portfolio-orpin.vercel.app
+
+---
+
+### 🤝 Collaboration
+- 👀 Open to collaborating on **MERN / Full-stack / SAP BTP projects**
+- 💡 Interested in **real-world scalable systems + product development**
+
+---
+
+### 📫 Reach Me
+- ✉️ Email: chinmayjape2@gmail.com  
+
+---
+
+### 🌟 Extra
+- Strong **team player**
+- Good **communication & ownership mindset**
+- Love building things that actually **solve real problems**
+
+---
+
+⭐ *Let’s build something impactful together.*
