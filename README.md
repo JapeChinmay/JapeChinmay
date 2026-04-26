@@ -38,13 +38,6 @@
 
 ---
 
-### 🌐 Portfolio
-- 🗃️ Main Portfolio:  
-  👉 https://www.crio.do/learn/portfolio/chinmayjape2/
-
-- ⚡ Next.js Portfolio:  
-  👉 https://next-js-portfolio-orpin.vercel.app
-
 ---
 
 ### 🤝 Collaboration
