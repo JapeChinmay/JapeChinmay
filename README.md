@@ -14,13 +14,12 @@ Full-Stack Developer | SAP BTP | CAPM | React | Next.js
 🌐 Strong frontend with React / Next.js / UI5
 🔍 Obsessed with system design + clean architecture
 🧩 I like solving problems that actually matter
-🕹️ Tech Stack
-⚛️ Frontend Arsenal
-6
-React.js / Next.js
-SAP UI5 / Fiori
-Tailwind CSS
-HTML / CSS / JS
+
+
+
+
+
+
 ⚙️ Backend Engine
 6
 Node.js / Express
@@ -55,23 +54,3 @@ Project-user assignment model
 🎮 Fun Section (8-bit vibe)
 > skills --list
 
-[██████████] React
-[██████████] Node.js
-[████████░░] System Design
-[████████░░] SAP BTP
-[██████░░░░] Docker
-
-> current_mode: BUILDING
-🤝 Let’s Collaborate
-💡 Full-stack products
-⚙️ Enterprise systems
-☁️ SAP BTP applications
-🚀 Startup ideas
-📫 Contact
-> ping chinmay
-
-📧 chinmayjape2@gmail.com
-
-🌟 Philosophy
-
-“Don’t just build features. Build systems that scale.”
